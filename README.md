@@ -13,7 +13,7 @@ _Exploiting intentionally vulnerable systems in a gamified approach like CTF_
 
 ## Bug Bounty
 
-_Companies rewarding the reporting of vulnerabilities. (Be very caerful when Pentesting without Permission To Attack: Most of these companies define a very specific scope, activities out-of-scope can result in legal action!)_
+_Companies rewarding the reporting of vulnerabilities. (Be very careful when pentesting without Permission To Attack: Most of these companies define a specific scope, activities out-of-scope can result in legal action!)_
 
 - [FireBounty](https://firebounty.com/) - Very extensive collection 
 
