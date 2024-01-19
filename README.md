@@ -47,6 +47,7 @@ _Personal or by companies_
 - [Security Idiots](http://www.securityidiots.com/)
 - [James Kettle](https://jameskettle.com/) - Recommended; He wrote some of the best Burp Plugins such as [Backslash Powered Scanner](https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8)
 - [Mendhak](https://code.mendhak.com/) - Short and quick to read
+- [Sec-Consult](https://sec-consult.com/de/blog/)
 
 ## Misc
 
