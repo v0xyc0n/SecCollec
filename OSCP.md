@@ -1,6 +1,6 @@
-## OSCP
+# OSCP
 
-### training
+## training
 
 - https://app.hackthebox.com/home
 - https://tryhackme.com/dashboard
@@ -19,7 +19,7 @@ Organisation
 - https://help.offensive-security.com/hc/en-us/articles/360046787731-PEN-200-Reporting-Requirements
 - https://github.com/whoisflynn/OSCP-Exam-Report-Template
 
-# AD 
+## AD 
 
 - https://faisalfs10x.github.io/thm/AttacktiveDirectory#
 - https://medium.com/@Shorty420/enumerating-ad-98e0821c4c78
@@ -34,7 +34,7 @@ Organisation
 - https://github.com/yarrick/iodine
 - https://www.mdsec.co.uk/2020/04/designing-the-adversary-simulation-lab/
 
-# WIN PrivEsc
+## WIN PrivEsc
 
 - https://github.com/api0cradle/UltimateAppLockerByPassList/blob/master/Generic-AppLockerbypasses.md
 - https://sirensecurity.io/blog/windows-privilege-escalation-resources/
@@ -46,7 +46,7 @@ Organisation
 - https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Windows%20-%20Privilege%20Escalation.md
 - https://lolbas-project.github.io/#
 
-# LIN PrivEsc
+## LIN PrivEsc
 
 - https://sirensecurity.io/blog/linux-privilege-escalation-resources/
 - https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
@@ -59,7 +59,7 @@ Organisation
 - https://medium.com/@tinopreter/linux-password-mining-58e341635f1c
 - https://medium.com/@tinopreter/linux-privesc-linux-kernel-exploits-87c61faec696
 
-# Cheat Sheets
+## Cheat Sheets
 
 - https://github.com/rekkatz/oscp-guide
 - https://cheatsheet.haax.fr/
