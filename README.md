@@ -2,7 +2,7 @@
 
 Collection of tools and ressources collected during daily operations 
 
-This list is work in progress and will probably stay that way. It is in no way a comprehensive list, because it omits the basic tools and vulnerabilities, and instead focuses on specific topics I found worth noting down. As I am most interested in Web-Application security, most topics relate to that.
+This list is work in progress and will probably stay that way. It is in no way a comprehensive list, because it omits most basic tools and vulnerabilities, and instead focuses on specific topics I found worth noting down. As I am most interested in Web-Application security, most topics relate to that.
 
 ## Training
 
