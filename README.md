@@ -1,27 +1,29 @@
 # SecCollec
 
-Collection of tools and ressources collected during daily operations; Work in Progress
+Collection of tools and ressources collected during daily operations 
+
+This list is work in progress and will probably stay that way. It is in no way a comprehensive list, because it omits the basic tools and vulnerabilities, and instead focuses on specific topics I found worth noting down. As I am most interested in Web-Application security, most topics relate to that.
 
 ## Training
 
 _Exploiting intentionally vulnerable systems in a gamified approach like CTF_
 
 - [Portswigger Academy](https://portswigger.net/web-security) - Very extensive list of Web Security Vulnerabilities, including labs; highly recommended
-- [Hack The Box](https://app.hackthebox.com/)
+- [Hack The Box](https://app.hackthebox.com/) - Hack The Box is one of the biggest CTF platforms
 
 ## Bug Bounty
 
-_Companies rewarding the reporting of vulnerabilities_
+_Companies rewarding the reporting of vulnerabilities. (Be very caerful when Pentesting without Permission To Attack: Most of these companies define a very specific scope, activities out-of-scope can result in legal action!)_
 
-- [FireBounty](https://firebounty.com/)
+- [FireBounty](https://firebounty.com/) - Very extensive collection 
 
 ## Collections
 
 _Or collection [of collections]*_
 
 - [OSCP](OSCP.md) - My own collection, somewhat unsorted
-- [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
-- [Pentesting Scripte](https://github.com/leonteale/pentestpackage/tree/master)
+- [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation) - Very extensive list of attacks on ai-systems or with help of ai
+- [Pentesting Scripte](https://github.com/leonteale/pentestpackage/tree/master) - List 
 - [Incivti Web Vulnerabilities](https://www.invicti.com/learn/vulnerabilities/)
 
 ## Payloads
