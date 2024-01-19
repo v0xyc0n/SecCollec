@@ -1,6 +1,6 @@
 # OSCP
 
-_Links collected during preparation for OSCP; somewhat unsorted_
+_Links collected during preparation for [Offensive Security Certified Professional](https://www.offsec.com/courses/pen-200/) Certification; somewhat unsorted_
 
 ## training
 
