@@ -1,5 +1,7 @@
 # OSCP
 
+_Links collected during preparation for OSCP; somewhat unsorted_
+
 ## training
 
 - https://app.hackthebox.com/home
