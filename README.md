@@ -19,6 +19,7 @@ _Companies rewarding the reporting of vulnerabilities_
 
 _Or collection [of collections]*_
 
+- [OSCP](OSCP.md) - My own collection, somewhat unsorted
 - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation)
 - [Pentesting Scripte](https://github.com/leonteale/pentestpackage/tree/master)
 - [Incivti Web Vulnerabilities](https://www.invicti.com/learn/vulnerabilities/)
@@ -46,7 +47,6 @@ _Personal or by companies_
 - [Security Idiots](http://www.securityidiots.com/)
 - [James Kettle](https://jameskettle.com/) - Recommended; He wrote some of the best Burp Plugins such as [Backslash Powered Scanner](https://portswigger.net/bappstore/9cff8c55432a45808432e26dbb2b41d8)
 - [Mendhak](https://code.mendhak.com/) - Short and quick to read
-- 
 
 ## Misc
 
