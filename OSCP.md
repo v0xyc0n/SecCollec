@@ -76,3 +76,16 @@ _Links collected during preparation for [Offensive Security Certified Profession
 - https://cheats.philkeeble.com/
 - https://wpscan.com/
 - https://wordpress.org/news/2023/10/wordpress-6-3-2-maintenance-and-security-release/
+
+## Further Resources
+
+| title | link |
+| ----- | ---- |
+| Linux PrivEsc via sockets | <https://book.hacktricks.xyz/linux-hardening/privilege-escalation#sockets> |
+| windows PrivEsc via token manipulation | <https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation#token-manipulation> |
+| WinPEAS | <https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS/winPEASexe> |
+| rpc | <https://0xffsec.com/handbook/services/msrpc/> |
+| oscp-guide. Shellcode | <https://sushant747.gitbooks.io/total-oscp-guide/content/create_shellcode.html> |
+| ldapsearch | <https://devconnected.com/how-to-search-ldap-using-ldapsearch-examples/> |
+| pentest everything. HTB resolute | <https://viperone.gitbook.io/pentest-everything/writeups/hackthebox/active-directory/resolute> |
+
