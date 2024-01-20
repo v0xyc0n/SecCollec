@@ -23,8 +23,9 @@ _Or collection [of collections]*_
 
 - [OSCP](OSCP.md) - My own collection, somewhat unsorted
 - [Offensive AI Compilation](https://github.com/jiep/offensive-ai-compilation) - Very extensive list of attacks on ai-systems or with help of ai
-- [Pentesting Scripte](https://github.com/leonteale/pentestpackage/tree/master) - List 
+- [Pentesting Scripte](https://github.com/leonteale/pentestpackage/tree/master) 
 - [Incivti Web Vulnerabilities](https://www.invicti.com/learn/vulnerabilities/)
+- [30 cybersecurity search engines for researchers](https://twitter.com/danielmakelley/status/1581774745791385600) - Collection by Daniel Kelly on Twitter
 
 ## Payloads
 
